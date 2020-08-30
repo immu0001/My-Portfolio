@@ -62,6 +62,31 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.knowMore
+{
+  position: relative;
+  display: inline-block;
+}
+
+.knowMore-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 8px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.knowMore:hover  .knowMore-content
+{
+  display: block;
+  position: relative;
+}
+
+
+
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
