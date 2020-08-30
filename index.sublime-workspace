@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"total"
+			],
+			[
+				"mai",
+				"mainfile"
+			],
+			[
+				"ge",
+				"gen_stop"
+			],
+			[
+				"lis",
+				"list_st_time"
+			],
+			[
+				"gen",
+				"gen_st_time"
+			],
+			[
+				"__",
+				"__len__"
+			],
+			[
+				"f",
+				"__first"
+			],
+			[
+				"Hey",
+				"HeyThere"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"my",
+				"myData"
+			],
+			[
+				"num",
+				"numArray"
+			],
+			[
+				"bo",
+				"bottom_right\ttuple ⟠"
+			],
+			[
+				"face_",
+				"face_locations\tunknown ⟠"
+			],
+			[
+				"kn",
+				"known_faces\tlist ⟠"
+			],
+			[
+				"face",
+				"face_encodings\tunknown ⟠"
+			],
+			[
+				"filen",
+				"filename\tunknown ⟠"
+			],
+			[
+				"know",
+				"known_names\tlist ⟠"
+			],
+			[
+				"ti",
+				"time_start\tfloat ⟠"
+			],
+			[
+				"re",
+				"release()\tfunction ⟠"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"col",
+				"color\tunknown ⟠"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"confi",
+				"confidences\tlist ⟠"
+			],
+			[
+				"FONT",
+				"FONT_HERSHEY_COMPLEX\tint ⟠"
+			],
+			[
+				"confidence",
+				"confidence"
+			],
+			[
+				"center",
+				"center_y\tint ⟠"
+			],
+			[
+				"ce",
+				"center_y\tint ⟠"
+			],
+			[
+				"destr",
+				"destroyAllWindows\tfunction ⟠"
+			],
+			[
+				"getLayes",
+				"getLayerNames()\tfunction ⟠"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"gender",
+				"gender_vectorizer\tTextIOWrapper | file | list | str ⟠"
+			],
+			[
+				"F",
+				"FastAPI\tunknown ⟠"
+			],
+			[
+				"summa",
+				"summary_result"
+			],
+			[
+				"su",
+				"sumy_summarizer"
+			],
+			[
+				"red",
+				"reduction_ratio"
+			],
+			[
+				"summarize",
+				"Summarize"
+			],
+			[
+				"wordclo",
+				"wordcloud"
+			],
+			[
+				"word",
+				"wordcloud"
+			],
+			[
+				"W",
+				"WordCloud"
+			],
+			[
+				"news",
+				"news_text"
+			],
+			[
+				"nlp",
+				"npl_task"
+			],
+			[
+				"te",
+				"text_area"
+			],
+			[
+				"pred",
+				"prediction_labels"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"new",
+				"news_text"
+			],
+			[
+				"load",
+				"loaded_models"
+			],
+			[
+				"L",
+				"Learning"
+			],
+			[
+				"P",
+				"Processing"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"me",
+				"metDf"
+			],
+			[
+				"A",
+				"About"
+			],
+			[
+				"dat",
+				"dataframe"
+			],
+			[
+				"mode",
+				"model_std"
+			],
+			[
+				"cv",
+				"cv_results"
+			],
+			[
+				"model",
+				"model_names"
+			],
+			[
+				"K",
+				"KNeighborsClassifier"
+			],
+			[
+				"pi",
+				"pie_plot"
+			],
+			[
+				"to",
+				"to_list"
+			],
+			[
+				"da",
+				"dataframe"
+			],
+			[
+				"se",
+				"selected_columns"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"sele",
+				"selected_column_names"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"all",
+				"all_columns_names"
+			],
+			[
+				"data",
+				"Dataframe"
+			],
+			[
+				"Data",
+				"Dataframe"
+			],
+			[
+				"fil",
+				"file_selector"
+			],
+			[
+				"image",
+				"image_name"
+			],
+			[
+				"predi",
+				"prediction"
+			],
+			[
+				"gender_",
+				"gender_vectorizer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/imran/TRAIN/models/research/object_detection/export_inference_graph.py",
+		"/home/imran/.cache/.fr-DaQOyJ/Code.ino",
+		"/home/imran/.cache/.fr-jJ1j0m/Code.ino",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/33. Web Scraping Project/scrap-1.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/33. Web Scraping Project/books.csv",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/28. Decorators/decorators-1.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/27. Iterators & Generators/speedtest.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/Ex/ex-11.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/Ex/ex-1.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/Ex/UnderScore-1.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/Ex/ex.py",
+		"/home/imran/Downloads/[FreeCourseSite.com] Udemy - The Modern Python 3 Bootcamp/Ex/UnderScore-2.py",
+		"/home/imran/Pro/motion.py",
+		"/home/imran/Animal.java",
+		"/home/imran/he.java",
+		"/home/imran/ex1.py",
+		"/home/imran/reinforcement-learning-sentdex/main.py",
+		"/var/cache/oracle-jdk11-installer-local/javaws-wrapper.sh",
+		"/home/imran/GithubPortfolioTheme/imran.github.io/categories/index.html",
+		"/home/imran/GithubPortfolioTheme/imran.github.io/index.html",
+		"/home/imran/ProV2/darknet/video_yolov3.sh",
+		"/home/imran/Downloads/VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle",
+		"/home/imran/d3map/bundle.js",
+		"/home/imran/d3map/styles.css",
+		"/home/imran/d3map/data.json",
+		"/home/imran/d3map/index.html",
+		"/home/imran/d3map/index.js",
+		"/home/imran/Downloads/[FreeCoursesOnline.Me] UDACITY - Deep Learning v4.0.0/index.html",
+		"/home/imran/Downloads/[CourseClub.NET] Udacity - Computer Vision Nanodegree v1.0.0/index.html",
+		"/home/imran/d3-js/index.html",
+		"/home/imran/d3-js/class2.html",
+		"/home/imran/d3-js/class3.html",
+		"/home/imran/Downloads/[CourseClub.Me] Udacity - Artificial Intelligence AI for Trading v1.0.0/[CourseClub.Me] Udacity - Artificial Intelligence AI for Trading v1.0.0/index.html",
+		"/home/imran/Downloads/[FreeCoursesOnline.Me] UDACITY - Data Engineering Nanodegree v1.0.0/index.html",
+		"/home/imran/Streamlite-DSApps/News-Classifier/Models/newsclassifier_Logit_model.pkl"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
