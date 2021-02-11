@@ -67,6 +67,10 @@ body {
   position: relative;
   display: inline-block;
 }
+.svg-welcome {
+  width: 200px;
+  height: 200px;
+}
 
 .knowMore-content {
   display: none;
