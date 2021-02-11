@@ -68,8 +68,11 @@ body {
   display: inline-block;
 }
 .svg-welcome {
-  width: 200px;
-  height: 200px;
+  position: absolute;
+  top: 70%;
+  left: 60%;
+  width: 150px;
+  height: 150px;
 }
 
 .knowMore-content {
