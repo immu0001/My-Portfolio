@@ -67,13 +67,7 @@ body {
   position: relative;
   display: inline-block;
 }
-.svg-welcome {
-  position: absolute;
-  top: 70%;
-  left: 60%;
-  width: 150px;
-  height: 150px;
-}
+
 
 .knowMore-content {
   display: none;
